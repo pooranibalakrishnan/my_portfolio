@@ -1740,7 +1740,9 @@ footer {
 }
 
 .main-box .content-wrap {
+  
   width: 100%;
+  min-height:230px;
   display: block;
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
@@ -2173,6 +2175,7 @@ li.mixitup-control-active {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   width: 100%;
+  min-height:390px;
   margin-bottom: 24px;
   padding: 24px;
   background: #fff;
