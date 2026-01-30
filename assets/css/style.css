@@ -5211,6 +5211,7 @@ li.mixitup-control-active {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   width: 100%;
+  min-height:317px;
   margin-bottom: 24px;
   float: left;
   overflow: hidden;
